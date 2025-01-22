@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="1000" height="200" src="https://camo.githubusercontent.com/31661bea65c8915a22b291e2442342dba304e8fc9f7ae45bcfb30d9bd9ce18d1/68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67" alt="my banner">
+<img width="1000" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6iklYqlw8WeJ5X7Cs6DWIwrNEXOFH8p46NFC31qiQBf-zdwXoeuSvXAs0z_Mtkzmp7c&usqp=CAU" alt="my banner">
 
 </p>
 <h1 align="center">Hi 👋, I'm Saima Batool</h1>
