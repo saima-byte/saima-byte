@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saima Batool</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="left" alt="Coding" width="350" src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
+<img align="left" alt="Coding" width="300" src="https://static.vecteezy.com/system/resources/previews/003/815/991/non_2x/female-programmer-doing-software-coding-free-vector.jpg">
 
 - 🌱 I’m currently learning **SQl**
 
