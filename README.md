@@ -66,13 +66,14 @@
 </p>
 
 ---
-### 📊 GitHub Streak:
+
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/saima-byteDenverCoder1)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saima-byte&theme=dark" alt="Saima's Streak" />
 </p>
+
+---
 
 ### 🎯 GitHub Activity:
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=saima-byte&bg_color=fff&color=000&line=3d6cd4&point=000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-
