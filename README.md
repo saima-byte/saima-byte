@@ -68,7 +68,7 @@
 ---
 ### 📊 GitHub Streak:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saima-byte&theme=dark" alt="Saima's Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com/saima-byteDenverCoder1)](https://git.io/streak-stats)
 </p>
 
 ### 🎯 GitHub Activity:
