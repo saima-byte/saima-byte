@@ -72,8 +72,7 @@
 </p>
 
 ---
-
 ### 🎯 GitHub Activity:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=saima-byte&bg_color=fff&color=000&line=3d6cd4&point=000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saima-byte&bg_color=ffffff&color=000000&line=3d6cd4&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
